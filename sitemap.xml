@@ -3,32 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>kylejmorris.github.io/categories/</loc>
-    <lastmod>2018-08-30T00:00:00+00:00</lastmod>
+    <loc>/2019/</loc>
+    <lastmod>2020-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>kylejmorris.github.io/categories/example/</loc>
-    <lastmod>2018-08-30T00:00:00+00:00</lastmod>
+    <loc>/categories/blog/</loc>
+    <lastmod>2020-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>kylejmorris.github.io/</loc>
-    <lastmod>2018-08-30T00:00:00+00:00</lastmod>
+    <loc>/categories/</loc>
+    <lastmod>2020-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>kylejmorris.github.io/post/</loc>
-    <lastmod>2018-08-30T00:00:00+00:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2020-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>kylejmorris.github.io/test-post/</loc>
-    <lastmod>2018-08-30T00:00:00+00:00</lastmod>
+    <loc>/tags/life/</loc>
+    <lastmod>2020-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>kylejmorris.github.io/tags/</loc>
+    <loc>/post/</loc>
+    <lastmod>2020-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-08-01T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>

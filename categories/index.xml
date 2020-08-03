@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Classic</title>
-    <link>kylejmorris.github.io/categories/</link>
-    <description>Recent content in Categories on Classic</description>
+    <title>Categories on home/kyle</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on home/kyle</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="kylejmorris.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Example</title>
-      <link>kylejmorris.github.io/categories/example/</link>
-      <pubDate>Thu, 30 Aug 2018 00:00:00 +0000</pubDate>
+      <title>Blog</title>
+      <link>/categories/blog/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>kylejmorris.github.io/categories/example/</guid>
+      <guid>/categories/blog/</guid>
       <description></description>
     </item>
     
