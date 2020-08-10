@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on home/kyle</title>
-    <link>/categories/blog/</link>
-    <description>Recent content in Blog on home/kyle</description>
+    <title>Hacking on home/kyle</title>
+    <link>/tags/hacking/</link>
+    <description>Recent content in Hacking on home/kyle</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 09 Aug 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/hacking/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -28,18 +28,6 @@ Day 1:
 Day 2:
 Day 3:
   Learn a new language while you browse the internet!</description>
-    </item>
-    
-    <item>
-      <title>2019 Year Review</title>
-      <link>/2019/</link>
-      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/2019/</guid>
-      <description>2019 was the most crazy year of my life. I wrote 3 drafts totaling &amp;gt;10000 words trying to summarize it, but my perspective kept changing and so I felt any such summary I wrote didn&amp;rsquo;t capture how I felt. Instead I&amp;rsquo;m just publishing shortform what went down as objectively as possible.
-January:
-  the good: got into the 6 uni classes I wanted. Super amped!
-  the growth: split with gf of ~3 years.</description>
     </item>
     
   </channel>
