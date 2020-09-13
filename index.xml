@@ -6,10 +6,21 @@
     <description>Recent content in Home on home/kyle</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Diary to 1970</title>
+      <link>/diary/</link>
+      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/diary/</guid>
+      <description>2020 September. The 9th day.
+6 months after &amp;ldquo;the virus&amp;rdquo;. The meager remains of humanities reign coats a barren wasteland known as earth.
+Big brother has told us to remain indoors. Unemployment is higher than the great depression. I shelter in a 7.5x7.8ft room that costs more than your college tuition, every month. I spend my day in neo-San Francisco writing codes on a personal mainframe computer that fits on my lap.</description>
+    </item>
     
     <item>
       <title>Sunday Hackathon 1 -- Subtle Study</title>
